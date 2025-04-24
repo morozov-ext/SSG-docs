@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Домашняя страница</title>
+    <link>http://localhost:1313/docs/git/</link>
+    <description>Recent content in Git on Домашняя страница</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Sun, 23 Feb 2025 12:40:35 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Введение в Git</title>
+      <link>http://localhost:1313/docs/git/introduction/</link>
+      <pubDate>Tue, 22 Oct 2024 15:58:35 +0300</pubDate>
+      <guid>http://localhost:1313/docs/git/introduction/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Git&lt;/strong&gt; — это &lt;strong&gt;система контроля версий (VCS)&lt;/strong&gt;. Разработчики используют VCS для работы с кодом, когда требуется:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Посмотреть историю изменений;&lt;/li&gt;&#xA;&lt;li&gt;Вернуться к любой предыдущей версии;&lt;/li&gt;&#xA;&lt;li&gt;Оптимизировать и обезопасить совместную работу.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;На сегодняшний день Git используется при разработке практически любого IT-проекта.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Установка</title>
+      <link>http://localhost:1313/docs/git/installation/</link>
+      <pubDate>Mon, 10 Feb 2025 17:52:52 +0300</pubDate>
+      <guid>http://localhost:1313/docs/git/installation/</guid>
+      <description>&lt;h2 id=&#34;windows&#34;&gt;Windows&lt;/h2&gt;&#xA;&lt;p&gt;Перейдите на &lt;a href=&#34;https://git-scm.com/downloads/win&#34;&gt;страницу загрузки Git&lt;/a&gt; на&#xA;официальном сайте. Вы можете скачать&#xA;&lt;a href=&#34;https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.2/Git-2.47.1.2-64-bit.exe&#34;&gt;последнюю поддерживаемую сборку&lt;/a&gt;,&#xA;любую другую подходящую версию или использовать инструмент &lt;a href=&#34;https://learn.microsoft.com/en-us/windows/package-manager/winget/&#34;&gt;WinGet&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Создание репозитория</title>
+      <link>http://localhost:1313/docs/git/first-repository/</link>
+      <pubDate>Wed, 19 Feb 2025 17:05:53 +0300</pubDate>
+      <guid>http://localhost:1313/docs/git/first-repository/</guid>
+      <description>&lt;h2 id=&#34;инициализация-репозитория&#34;&gt;Инициализация репозитория&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Локальный репозиторий&lt;/strong&gt; — это, по сути, обычная директория, помещенная под&#xA;версионный контроль. Для создания нового проекта выполните следующие шаги:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Интеграция с GitHub</title>
+      <link>http://localhost:1313/docs/git/integration/</link>
+      <pubDate>Wed, 12 Feb 2025 18:17:01 +0300</pubDate>
+      <guid>http://localhost:1313/docs/git/integration/</guid>
+      <description>&lt;h2 id=&#34;регистрация&#34;&gt;Регистрация&lt;/h2&gt;&#xA;&lt;p&gt;Вероятно, сейчас или в будущем вы захотите разрабатывать проекты &lt;a href=&#34;http://localhost:1313/docs/git/introduction&#34;&gt;совместно с другими разработчиками&lt;/a&gt;. Для этого вам потребуется зарегистрироваться в &lt;a href=&#34;https://github.com/signup&#34;&gt;GitHub&lt;/a&gt;. Напоминаем, что GitHub — это облачная платформа для хостинга Git-репозиториев.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Внесение изменений</title>
+      <link>http://localhost:1313/docs/git/modify/</link>
+      <pubDate>Sun, 23 Feb 2025 12:40:35 +0300</pubDate>
+      <guid>http://localhost:1313/docs/git/modify/</guid>
+      <description>&lt;p&gt;Продолжим работу с репозиторием, который вы недавно &lt;a href=&#34;http://localhost:1313/docs/git/first-repository/&#34;&gt;создали&lt;/a&gt;. На данный момент все измененные файлы уже внесены в коммиты, а&#xA;рабочий каталог чист.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>История</title>
+      <link>http://localhost:1313/docs/git/history/</link>
+      <pubDate>Sun, 23 Feb 2025 12:40:35 +0300</pubDate>
+      <guid>http://localhost:1313/docs/git/history/</guid>
+      <description>&lt;p&gt;Для понимания принципов работы Git нужно уяснить несколько моментов:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ветка представляет собой &lt;strong&gt;односвязный список&lt;/strong&gt;, т.е. каждый&#xA;новый коммит базируется на предыдущем.&lt;/li&gt;&#xA;&lt;li&gt;Git стремится двигаться только вперед. Удаление файла —&#xA;это, как правило, новый коммит, а не изменение старого.&lt;/li&gt;&#xA;&lt;li&gt;В любой момент разработчик может посмотреть изменения от самого первого&#xA;до последнего коммита.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/git-branch-1.png&#34;&gt;&#xD;&#xA;&lt;p&gt;Благодаря этим принципам Git является строго упорядоченной системой версий, и&#xA;работать с историей изменений в нем очень удобно.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ветки</title>
+      <link>http://localhost:1313/docs/git/branches/</link>
+      <pubDate>Sun, 23 Feb 2025 12:40:35 +0300</pubDate>
+      <guid>http://localhost:1313/docs/git/branches/</guid>
+      <description>&lt;p&gt;Как мы уже &lt;a href=&#34;http://localhost:1313/docs/git/history&#34;&gt;объясняли&lt;/a&gt;, Git стремится двигаться только вперед&#xA;и представляет собой односвязный список.&lt;/p&gt;&#xA;&lt;p&gt;Но это упрощенная модель из всего одной &lt;strong&gt;ветки&lt;/strong&gt; main.&#xA;В реальных проектах Git используется ряд односвязных списков, связанных&#xA;между собой.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Удаленные ветки</title>
+      <link>http://localhost:1313/docs/git/remote-branches/</link>
+      <pubDate>Sun, 23 Feb 2025 12:40:35 +0300</pubDate>
+      <guid>http://localhost:1313/docs/git/remote-branches/</guid>
+      <description>&lt;h2 id=&#34;отправка-изменений&#34;&gt;Отправка изменений&lt;/h2&gt;&#xA;&lt;p&gt;Локальные ветки не синхронизируются автоматически с удаленными. Если вы сейчас&#xA;используете команду &lt;nobr&gt;&lt;code&gt;git push&lt;/code&gt;&lt;/nobr&gt;, то отправите в удаленный репозиторий только&#xA;ветку &lt;code&gt;main&lt;/code&gt;, которую связали&#xA;&lt;a href=&#34;http://localhost:1313/docs/git/integration/#%d1%81%d0%b2%d1%8f%d0%b7%d1%8b%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bb%d0%be%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be-%d0%b8-%d1%83%d0%b4%d0%b0%d0%bb%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be-%d1%80%d0%b5%d0%bf%d0%be%d0%b7%d0%b8%d1%82%d0%be%d1%80%d0%b8%d0%b5%d0%b2&#34;&gt;ранее&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Параметры</title>
+      <link>http://localhost:1313/docs/git/flags/</link>
+      <pubDate>Tue, 22 Oct 2024 15:58:35 +0300</pubDate>
+      <guid>http://localhost:1313/docs/git/flags/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

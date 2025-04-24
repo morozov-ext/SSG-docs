@@ -1,0 +1,54 @@
+[404_text]
+other = "The page you are looking for doesn't exist or has been moved."
+
+[404_title]
+other = "Страница не найдена :("
+
+[browse]
+other = "Browse"
+
+[chapter_next]
+other = "Вперед"
+
+[chapter_previous]
+other = "Назад"
+
+[edit_page]
+other = "Edit this page on"
+
+[get_started]
+other = "Введение в документацию"
+
+[home]
+other = "Домашняя страница"
+
+[last_updated]
+other = "Last updated on"
+
+[minute]
+one = "minute"
+other = "minutes"
+
+[on_this_page]
+other = "Содержание"
+
+[reading_time]
+other = "Estimated reading time"
+
+[search_loading]
+other = "Загрузка…"
+
+[search_no_recent]
+other = "Нет истории поиска"
+
+[search_no_results]
+other = "No results"
+
+[search_placeholder]
+other = "Поиск"
+
+[search_title]
+other = "Поиск"
+
+[video_unsupported]
+other = "Your browser doesn't support embedded videos, but don't worry, you can <a href=\"{{ .RelPermalink }}\">download it</a> and watch it with your favorite video player!"

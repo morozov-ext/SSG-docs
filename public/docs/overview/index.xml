@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Введение в документацию on Домашняя страница</title>
+    <link>http://localhost:1313/docs/overview/</link>
+    <description>Recent content in Введение в документацию on Домашняя страница</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Tue, 22 Oct 2024 15:58:35 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/overview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>С чего начать?</title>
+      <link>http://localhost:1313/docs/overview/start/</link>
+      <pubDate>Tue, 22 Oct 2024 15:58:35 +0300</pubDate>
+      <guid>http://localhost:1313/docs/overview/start/</guid>
+      <description>&lt;p&gt;В этом руководстве вы найдете инструкции для &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/docs/markdown/introduction/&#34;&gt;Markdown&lt;/a&gt;&lt;/strong&gt; и &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/docs/git/introduction/&#34;&gt;Git&lt;/a&gt;&lt;/strong&gt;, а в&#xA;будущем и для HTML и CSS.&lt;/p&gt;&#xA;&lt;p&gt;Предполагается, что вы уже знакомы с базовыми командами &lt;strong&gt;интерфейса командной строки&lt;/strong&gt; (&lt;strong&gt;CLI&lt;/strong&gt;). Если нет, рекомендуем пройти бесплатный курс, например от &lt;a href=&#34;https://ru.hexlet.io/courses/cli-basics&#34;&gt;Hexlet&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

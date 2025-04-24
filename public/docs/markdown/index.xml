@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Домашняя страница</title>
+    <link>http://localhost:1313/docs/markdown/</link>
+    <description>Recent content in Markdown on Домашняя страница</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Tue, 22 Oct 2024 15:58:35 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Введение в Markdown</title>
+      <link>http://localhost:1313/docs/markdown/introduction/</link>
+      <pubDate>Tue, 22 Oct 2024 15:58:35 +0300</pubDate>
+      <guid>http://localhost:1313/docs/markdown/introduction/</guid>
+      <description>&lt;h2 id=&#34;mark-1&#34;&gt;Что такое Markdown?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; (Маркда́ун) — это легковесный &lt;strong&gt;язык разметки&lt;/strong&gt;, то есть набор символов, которые стилизуют и придают структуру тексту.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Базовый синтаксис</title>
+      <link>http://localhost:1313/docs/markdown/basic-syntax/</link>
+      <pubDate>Tue, 22 Oct 2024 15:58:35 +0300</pubDate>
+      <guid>http://localhost:1313/docs/markdown/basic-syntax/</guid>
+      <description>&lt;p&gt;Базовый синтаксис поддерживается практически всеми &lt;a href=&#34;../introduction/#mark-1&#34;&gt;диалектами&lt;/a&gt; Markdown. Некоторые особенности могут отличаться,&#xA;поэтому обращайте внимание на &lt;strong&gt;Лучшие практики&lt;/strong&gt; по ходу документа.&lt;/p&gt;&#xA;&lt;h2 id=&#34;заголовки-headings&#34;&gt;Заголовки (Headings)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Заголовки&lt;/strong&gt; в Markdown бывают шести уровней. Первый уровень соответствует&#xA;самому большому размеру шрифта, а шестой — самому маленькому.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Расширенный синтаксис</title>
+      <link>http://localhost:1313/docs/markdown/extended-syntax/</link>
+      <pubDate>Tue, 22 Oct 2024 15:58:35 +0300</pubDate>
+      <guid>http://localhost:1313/docs/markdown/extended-syntax/</guid>
+      <description>&lt;p&gt;Не все &lt;a href=&#34;../introduction/#mark-1&#34;&gt;диалекты&lt;/a&gt; Markdown поддерживают расширенный синтаксис. Сверяйтесь с документацией и проверяйте доступные&#xA;расширения.&lt;/p&gt;&#xA;&lt;h2 id=&#34;таблицы-tables&#34;&gt;Таблицы (Tables)&lt;/h2&gt;&#xA;&lt;p&gt;Чтобы вставить &lt;strong&gt;таблицу&lt;/strong&gt;, создайте с помощью спецсимволов следующую структуру:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
