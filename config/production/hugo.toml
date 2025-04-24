@@ -1,3 +1,7 @@
 # Overrides for production environment
 baseurl = "https://morozov-ext.github.io/SSG-docs/"
 title = "My Docs Site"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
