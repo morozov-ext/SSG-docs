@@ -30,13 +30,13 @@
 
 [[main]]
   name = "Документация"
-  url = "/docs/overview/start/"
+  url = "docs/overview/start/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
 [[main]]
   name = "Заметки"
-  url = "/notes/"
+  url = "notes/"
   weight = 30
 
 # [[social]]
