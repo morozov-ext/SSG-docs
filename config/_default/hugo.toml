@@ -1,6 +1,6 @@
 title = "Домашняя страница"
 baseurl = "http://localhost/"
-canonifyURLs = false
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
