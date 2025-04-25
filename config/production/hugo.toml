@@ -1,5 +1,5 @@
 # Overrides for production environment
-baseurl = "https://morozov-ext.github.io/SSG-docs/"
+baseurl = "https://morozov-ext.github.io/ssg-docs/"
 title = "Домашняя страница"
 
 [caches]
