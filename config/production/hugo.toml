@@ -5,3 +5,7 @@ title = "Домашняя страница"
 [caches]
   [caches.images]
     dir = ':cacheDir/static/images'
+
+[permalinks]
+blog = "./notes/:slug/"
+docs = "./docs/:sections[1:]/:slug/"
