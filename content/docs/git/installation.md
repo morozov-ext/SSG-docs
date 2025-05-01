@@ -19,7 +19,7 @@ seo:
 
 Перейдите на [страницу загрузки Git](https://git-scm.com/downloads/win) на
 официальном сайте. Вы можете скачать
-[последнюю поддерживаемую сборку](https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.2/Git-2.47.1.2-64-bit.exe),
+последнюю поддерживаемую сборку,
 любую другую подходящую версию или использовать инструмент [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget/).
 
 Запустите установщик и следуйте инструкциям. Если хотите изменить компоненты
