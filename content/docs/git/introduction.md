@@ -62,7 +62,7 @@ seo:
 Он перезаписывает не каждый файл, а только измененные.
 Визуально это выглядит так:
 
-<img src="/images/git-overview-2.png">
+{{<img src="images/git-overview-2.png">}}
 
 ---
 
