@@ -197,7 +197,7 @@ Git открывает либо nano, либо vim. Это зависит от �
 <nobr>`git config --global core.editor <название_редактора>`</nobr>
 {{< /callout >}}
 
-<img src="/images/git-nano.png">
+{{<img src="/images/git-nano.png">}}
 
 Готово, коммит отменен.
 
