@@ -1,5 +1,5 @@
 ---
-title: "Параметры"
+title: ""
 description: ""
 summary: ""
 date: 2024-10-22T15:58:35+03:00
